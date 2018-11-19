@@ -27,3 +27,7 @@ end
 
 
 take_a_number(katz_deli, "Harry");
+take_a_number(katz_deli, "Joe");
+take_a_number(katz_deli, "Georgia");
+line(katz_deli);
+now_serving(katz_deli);
